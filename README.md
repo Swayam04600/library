@@ -70,17 +70,6 @@ This project helps manage books, members, and checkouts, making it easier for li
 * **Add, edit, or delete** books and track member activity.
 * **Check out** books to members and track due dates.
 
----
-
-## 📷 Screenshots
-
-*(Add screenshots of your app’s interface here!)*
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 
 
